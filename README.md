@@ -2,7 +2,6 @@
 
 ## Coverage & Tests implemented for:
 - Person::equals (**Serverless**)
-- App::runInteractiveMode (**event-asynchronous**)
 - Hero::toString (**Builder**)
 - LambdaInfo::equals (**Serverless**)
 - QuadTree::insert (**spatial-partition**)
@@ -11,3 +10,9 @@
 - Address::equals (**serverless**)
 - Car::equals (**collection-pipeline**)
 - PlayerDetails::equals (**hexagonal**)
+
+## Coverage for:
+- App::runInteractiveMode (**event-asynchronous**)
+
+## Test for:
+- LotteryNumbers.equals (**hexagonal)
