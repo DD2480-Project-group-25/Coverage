@@ -15,4 +15,4 @@
 - App::runInteractiveMode (**event-asynchronous**)
 
 ## Test for:
-- LotteryNumbers.equals (**hexagonal)
+- LotteryNumbers.equals (**hexagonal**)
